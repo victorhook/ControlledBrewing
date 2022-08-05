@@ -1,0 +1,9 @@
+*.gbr
+*pro
+*drl
+*sch
+*gbrjob
+*pcb
+*prl
+*-cache
+pcb-backups/
